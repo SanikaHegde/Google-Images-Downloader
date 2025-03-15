@@ -33,4 +33,7 @@ Google Image Downloader is a web application that allows users to search for ima
 ## results 
 
 ![image alt](https://github.com/SanikaHegde/Google-Images-Downloader/blob/5bb61e9f61fea02d24922c29eadb48381cf2f1f9/Screenshot%202025-03-15%20112357.png)
+
 ![iamge alt](https://github.com/SanikaHegde/Google-Images-Downloader/blob/77714977d190fb05e7b070ebef83c26f271451b3/Screenshot%202025-03-15%20112445.png)
+
+![image alt](https://github.com/SanikaHegde/Google-Images-Downloader/blob/c8398b6d4b49f0d289a99a56b05ac6cd597eebc3/Screenshot%202025-03-15%20112502.png)
