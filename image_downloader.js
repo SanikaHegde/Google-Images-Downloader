@@ -6,7 +6,7 @@ const path = require('path');
 const app = express();
 
 const GOOGLE_API_KEY = '#####';
-const SEARCH_ENGINE_ID = '#####';
+const SEARCH_ENGINE_ID = '#####';/// change ur api and search engine id
 
 // Middleware
 app.use(express.json());
