@@ -30,3 +30,4 @@ Google Image Downloader is a web application that allows users to search for ima
 - **Usage**: Explains how to use the application.
 - **Acknowledgements**: Credits any libraries or APIs used in the project.
 
+## results 
