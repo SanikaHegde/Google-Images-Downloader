@@ -23,3 +23,10 @@ Google Image Downloader is a web application that allows users to search for ima
 -Axios for handling HTTP requests
 -Bootstrap for responsive design (optional, if you decide to use it in the future)
 
+
+### Explanation:
+- **Project Overview**: Describes the functionality of your app.
+- **Technologies Used**: Lists the core technologies.
+- **Usage**: Explains how to use the application.
+- **Acknowledgements**: Credits any libraries or APIs used in the project.
+
