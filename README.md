@@ -19,9 +19,9 @@ Google Image Downloader is a web application that allows users to search for ima
 - Browse through the results and click the "Download" button to download any image you like.
 
 ## Acknowledgements
--Google Custom Search API
--Axios for handling HTTP requests
--Bootstrap for responsive design (optional, if you decide to use it in the future)
+-  Google Custom Search API
+-  Axios for handling HTTP requests
+- Bootstrap for responsive design (optional, if you decide to use it in the future)
 
 
 ### Explanation:
