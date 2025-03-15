@@ -10,7 +10,6 @@ Clean UI: Simple and modern user interface with a light background and smooth in
 
 Technologies Used
 Node.js: Backend server to handle image search and downloads.
-
 Express.js: Web framework for building the REST API.
 Axios: HTTP client to fetch images from the Google Custom Search API.
 HTML, CSS, JavaScript: For frontend development and UI components.
