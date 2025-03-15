@@ -1,16 +1,19 @@
- Google-Images-Downloader
+# Google Image Downloader
 
-A simple web application that allows users to search for images from Google and download them directly. This project utilizes the Google Custom Search API to fetch image results and provides a user-friendly interface for searching and downloading images.
+Google Image Downloader is a web application that allows users to search for images using Google's Custom Search API and download them with a single click. It is built using **Node.js** and **Express** for the backend, and uses basic HTML, CSS, and JavaScript for the frontend.
 
-Features
-Image Search: Search for images from Google Custom Search API.
-Download Images: Download images by clicking the 'Download' button next to each image result.
-Responsive Design: The application is fully responsive and works on both desktop and mobile devices.
-Clean UI: Simple and modern user interface with a light background and smooth interactions.
+## Features
+- **Search for Images:** Search images from Google based on your query.
+- **Download Images:** Download any image from the search results with a single click.
+- **Responsive Design:** The app is fully responsive, ensuring a smooth experience on both desktop and mobile devices.
+- **Background with Google Logo Pattern:** The background is styled with a subtle Google logo pattern for a fun and creative touch.
 
-Technologies Used
-Node.js: Backend server to handle image search and downloads.
-Express.js: Web framework for building the REST API.
-Axios: HTTP client to fetch images from the Google Custom Search API.
-HTML, CSS, JavaScript: For frontend development and UI components.
-Google Custom Search API: Used to fetch image results.
+## Technologies Used
+- **Backend:** Node.js, Express
+- **Frontend:** HTML, CSS, JavaScript
+- **Google Custom Search API** for fetching image results
+- **Axios** for making HTTP requests to the Google API
+
+
+
+
