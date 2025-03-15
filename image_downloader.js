@@ -5,8 +5,8 @@ const path = require('path');
 
 const app = express();
 
-const GOOGLE_API_KEY = 'AIzaSyD49oFvSSh0eiCA6pGjOkC0ilWLLQLu6FY';
-const SEARCH_ENGINE_ID = '6321c17861eb14a50';
+const GOOGLE_API_KEY = '#####';
+const SEARCH_ENGINE_ID = '#####';
 
 // Middleware
 app.use(express.json());
