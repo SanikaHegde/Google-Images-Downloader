@@ -5,7 +5,7 @@ Google Image Downloader is a web application that allows users to search for ima
 ## Features
 - **Search for Images:** Search images from Google based on your query.
 - **Download Images:** Download any image from the search results with a single click.
-- **Responsive Design:** The app is fully responsive, ensuring a smooth experience on both desktop and mobile devices.
+- **Responsive Design:** The Website is fully responsive, ensuring a smooth experience on both desktop and mobile devices.
 - **Background with Google Logo Pattern:** The background is styled with a subtle Google logo pattern for a fun and creative touch.
 
 ## Technologies Used
@@ -25,7 +25,7 @@ Google Image Downloader is a web application that allows users to search for ima
 
 
 ### Explanation:
-- **Project Overview**: Describes the functionality of your app.
+- **Project Overview**: Describes the functionality of website.
 - **Technologies Used**: Lists the core technologies.
 - **Usage**: Explains how to use the application.
 - **Acknowledgements**: Credits any libraries or APIs used in the project.
